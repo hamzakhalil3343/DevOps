@@ -7,3 +7,5 @@ Public cloud are computing services which anyone can purchase and use them. (Not
 For that data which is not accessible to any one.
 ## Hybrid Cloud
 Combination of public and private cloud services.
+
+
